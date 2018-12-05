@@ -22,3 +22,5 @@ github_username:  amdkeepsmehot
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
